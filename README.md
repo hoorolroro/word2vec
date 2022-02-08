@@ -7,7 +7,7 @@ cos_sim(apple, car) = 0
 
 ● 아래는 단어를 실수로 표현하는 Distributed Representation을 묘사하는 그림이다.
 
-<img src="https://user-images.githubusercontent.com/98728682/152904099-a67b7e89-c412-483e-8176-eb626858d3d2.png" width="520" height="400">  
+<img src="https://user-images.githubusercontent.com/98728682/152904099-a67b7e89-c412-483e-8176-eb626858d3d2.png" width="500" height="380">  
 
 ● 단어를 0 혹은 1이 아닌 연속적인 레벨로 표현을 하는 기법이다.  
 
@@ -22,4 +22,6 @@ cos_sim(apple, car) = 0
 ● 두 번 째 실습에서는 word2vec를 하이퍼파라미터를 바꿔가면서도 새로 학습해본다.  
 
 ## 프로그램 시현
-● 두 번째 실습에서 Negative Samplig과 skit gram 등 하이퍼파라미터를 적절히 사용해보니, 더 좋은 결과를 얻을 수 있었다.(45.3%의 정확도를 얻었다.)
+● 두 번째 실습에서 Negative Samplig과 skit gram 등 하이퍼파라미터를 적절히 사용해보니, 더 좋은 결과를 얻을 수 있었다.  
+
+● 두 번째 실습에서 45.3%의 정확도를 얻었다.
