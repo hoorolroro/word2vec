@@ -5,9 +5,9 @@
 cos_sim(apple, fruit) = 0  
 cos_sim(apple, car) = 0  
 
-● 아래는 단어를 실수로 표현하는 Distributed Representation을 묘사하는 그림이다.
+● 아래는 단어를 실수로 표현하는 Distributed Representation을 묘사하는 그림이다.  
 
-<img src="https://user-images.githubusercontent.com/98728682/152904099-a67b7e89-c412-483e-8176-eb626858d3d2.png" width="500" height="380">  
+<img src="https://user-images.githubusercontent.com/98728682/152904099-a67b7e89-c412-483e-8176-eb626858d3d2.png" width="450" height="350">  
 
 ● 단어를 0 혹은 1이 아닌 연속적인 레벨로 표현을 하는 기법이다.  
 
