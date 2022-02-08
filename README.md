@@ -13,7 +13,7 @@ cos_sim(apple, car) = 0
 
 ● word2vec은 특정 단어의 의미를 벡터로 표현하기 위해서는 주변 문맥을 이용한다는 Distributional hypothesis[Harris et al., 1954] 철학을 이용  
 
-● word2vec은 Tomas Mikolov에 의해서 2013에 제안되었다.  
+● Tomas Mikolov에 의해서 2013에 제안되었다. [Mikolov et al. 2013]  
 ## Project 목표  
 ● Pre-trained word2vec(GoogleNews-vectors-negative3000.bin.gz)를 사용해서 단어의 Similarity와 Word Analogy를 파악해본다.  
 
