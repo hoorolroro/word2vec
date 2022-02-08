@@ -14,4 +14,5 @@ cos_sim(apple, car) = 0
 ## Project 목표  
 ● Pre-trained word2vec(GoogleNews-vectors-negative3000.bin.gz)를 사용해서 단어의 Similarity와 Word Analogy를 파악해본다.  
 ● Word2vec을  Custom data를 바탕으로 새로 학습해본다.  
-● word2vec을 하이퍼파라미터를 바꿔가면서도 새로 학습해본다.
+● 두 번 째 실습에서는 word2vec를 하이퍼파라미터를 바꿔가면서도 새로 학습해본다.  
+## 
