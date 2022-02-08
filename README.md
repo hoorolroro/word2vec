@@ -11,5 +11,5 @@ cos_sim(apple, car) = 0
 ● 단어를 0 혹은 1이 아닌 연속적인 레벨로 표현을 하는 기법이다.  
 ● word2vec은 특정 단어의 의미를 벡터로 표현하기 위해서는 주변 문맥을 이용한다는 Distributional hypothesis[Harris et al., 1954] 철학을 이용  
 ● word2vec은 Tomas Mikolov에 의해서 2013에 제안되었다.  
-## project 목표  
+## roject 목표  
 
