@@ -15,11 +15,11 @@ cos_sim(apple, car) = 0
 
 ● Tomas Mikolov에 의해서 2013에 제안되었다. [Mikolov et al. 2013]  
 ## Project 목표  
-● Pre-trained word2vec(GoogleNews-vectors-negative3000.bin.gz)를 사용해서 단어의 Similarity와 Word Analogy를 파악해본다.  
+● 첫 번째 실습에서는 Pre-trained word2vec(GoogleNews-vectors-negative3000.bin.gz)를 사용해서 단어의 Similarity와 Word Analogy를 파악해본다.  
 
-● Word2vec을  Custom data를 바탕으로 새로 학습해본다.  
+● 마지막으로 Word2vec을  Custom data를 바탕으로 새로 학습해본다.  
 
-● 두 번 째 실습에서는 word2vec를 하이퍼파라미터를 바꿔가면서도 새로 학습해본다.  
+● 두 번째 실습에서는 word2vec를 Custom data을 바탕으로 하이퍼파라미터를 바꿔가면서 학습하고 평가해본다.
 
 ## Hyper-parameter  
 
